@@ -1,1 +1,3 @@
-# season
+# maven-project
+
+Simple Maven Project
